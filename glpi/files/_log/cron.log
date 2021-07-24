@@ -1,0 +1,8 @@
+2021-07-25 00:16:56 [@glpi]
+Interno #1: Executar createinquest
+2021-07-24 22:18:03 [@glpi]
+Externo #1: Executar PurgeLogs
+2021-07-24 22:18:03 [@glpi]
+Externo #2: Executar checkAllUpdates
+2021-07-24 22:18:03 [@glpi]
+Externo #3: Executar DomainsAlert
